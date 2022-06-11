@@ -1,0 +1,1 @@
+Feature: Verify items added by user remains when user relogin
